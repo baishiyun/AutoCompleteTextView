@@ -1,0 +1,2 @@
+# AutoCompleteTextView
+AutoCompleteTextView 是一个实时刷选控件，根据输入框中的文本信息进行筛选，View的部分都已经封装好，业务部分自己实现。都以以Block的形式回掉，简单实用！现在已经支持CocoaPods管理，如果对你有所帮助，请Star和Fork。
